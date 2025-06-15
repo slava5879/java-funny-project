@@ -11,6 +11,8 @@ public class GalToLit {
             System.out.println(gallons + " gallons are equal to " + liters + " liters.");
             counter++;
 
+            //if (gallons == 25) break;
+
             if (counter == 10) {
                 System.out.println();
                 counter = 0;
